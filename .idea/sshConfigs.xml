@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="dct.nixiedroid.com" id="3975af47-afc2-4bd8-96ab-6fca0fe681ab" keyPath="$USER_HOME$/.ssh/id_rsa" port="6314" nameFormat="DESCRIPTIVE" username="user" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
