@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="be477020-ddb4-498c-824b-27fd33406fa7" name="PolandVPS" url="http://nixiedroid.com">
+        <fileTransfer rootFolder="/home/user" accessType="SFTP" host="dct.nixiedroid.com" port="29028" sshConfigId="5ef79e81-b871-4a26-9ac2-ca17d7b7ea66" sshConfig="user@dct.nixiedroid.com:29028 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="150000" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
