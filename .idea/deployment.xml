@@ -5,7 +5,8 @@
       <paths name="PolandVPS">
         <serverdata>
           <mappings>
-            <mapping deploy="/web/site" local="$PROJECT_DIR$" web="site.nixedroid.com" />
+            <mapping deploy="/web/simple-server" local="$PROJECT_DIR$" web="/" />
+            <mapping local="" />
           </mappings>
         </serverdata>
       </paths>
